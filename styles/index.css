@@ -1,6 +1,20 @@
 body{
     background-color: rgb(184, 63, 63);
 }
+h1{
+    font-size: 28px;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 p.navegacao{
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(255, 0, 0, 0.233);
+}
+img.banner{
+    position: center;
+}
+main{
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black;
 }
